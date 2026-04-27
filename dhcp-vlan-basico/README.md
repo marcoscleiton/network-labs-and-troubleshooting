@@ -17,7 +17,7 @@ This lab demonstrates how to configure VLANs and DHCP using Cisco Packet Tracer.
 - DHCP pools configured
 
 ## Testing
-![Ping Test](./testes_ping.png.)
+![Ping Test](./testes_ping.png)
 
 ## Result
 Devices successfully received IP addresses and communicated correctly.
